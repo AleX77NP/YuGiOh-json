@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Yugi Muto",
+        "age": 18,
+        "deck": "Strategy-Spellcaster Deck",
+        "ace": "Dark Magician",
+        "img": "yugi.png",
+        "biography": "If there was ever a kid born to play Duel Monsters, Yugi is that kid. While his fellow freshmen at Domino High School may only see him as the shy type, Yugi's best friends Joey, Tristan, and Téa know about his secret talent. When Yugi was growing up, his grandfather gave him an ancient Egyptian artifact called the “Millennium Puzzle” to solve. It is said that whosoever manages to solve this puzzle will be granted dark and mysterious powers. "
+    },
+    {
+        "id": 2,
+        "name": "Yami Yugi",
+        "age": 3000,
+        "deck": "Dark Magician-Egyptian Gods Deck",
+        "ace": "Dark Magician/Egyptian Gods",
+        "img": "yamiyugi.png",
+        "biography": "The young and steely-eyed Yami Yugi is an extraordinary and confident duelist who fights the ultimate battle at the Shadow Games. But who is Yami Yugi? The spirit confined within the Millennium Puzzle is the spirit of the ancient Egyptian Pharaoh that locked away the Shadow Games millennia ago."
+    },
+    {
+        "id": 3,
+        "name": "Joey Wheeler",
+        "age": 18,
+        "deck": "Luck Hybrid Deck",
+        "ace": "Flame Swordsman",
+        "img": "joey.png",
+        "biography": "Once a wild and tough street kid, Joey has learned the value of friendship and has become a loyal buddy to Yugi. Although Joey's harsh street background occasionally makes him hot-headed and too quick to act, he has a heart of gold and would do anything for his friends, especially his younger sister who lives apart from him."
+    },
+    {
+        "id": 4,
+        "name": "Téa Gardner",
+        "age": 18,
+        "deck": "Fairy Deck",
+        "ace": "Magician of Faith",
+        "img": "tea.png",
+        "biography": "Among all of Yugi's friends, Téa is the voice of reason. A childhood friend of Yugi's, Téa is also the biggest cheerleader in the group, always encouraging everyone to believe in themselves and never give up. Téa loves her friends so very much and is willing to help them any way she can."
+    }, 
+    {
+        "id": 5,
+        "name": "Tristan Taylor",
+        "age": 18,
+        "deck": "Machine Combo Deck",
+        "ace": "Cyber Commander",
+        "img": "tristan.png",
+        "biography": "Tristan met Yugi at the same time as his long time pal, Joey. Even though these two friends bicker every once in awhile, they always cover each other's backs. Sometimes he's quick to panic, but when it comes down to it, Tristan is willing to do whatever it takes to support and cheer on his friends."
+    }
+]
